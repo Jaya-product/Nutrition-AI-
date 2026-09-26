@@ -313,7 +313,8 @@ export default function AI_Nutrition_App() {
       const prevMessages = currentChat?.messages || [];
       const apiMessages = [...prevMessages, userMsg].map(m => ({ role: m.role, content: m.content }));
 
-      const apiUrl = process.env.NEXT_PUBLIC_API_URL ? `${process.env.NEXT_PUBLIC_API_URL}/api/chat` : "/api/chat";
+      const baseUrl = process.env.NEXT_PUBLIC_API_URL?.replace(/\/$/, "") || "";
+      const apiUrl = baseUrl ? `${baseUrl}/api/chat` : "/api/chat";
       const res = await fetch(apiUrl, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
