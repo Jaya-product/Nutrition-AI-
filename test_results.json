@@ -1,0 +1,246 @@
+[
+  {
+    "id": 1,
+    "text": "How much protein does an adult need?",
+    "category": "Nutrient",
+    "response": {
+      "answer": "The Dietary Guidelines for Americans recommend that protein make up about 10‑35 % of daily calories. For most adults this translates to roughly 46 g per day for women and 56 g per day for men, though needs vary with activity level, age, and health status. Athletes or those doing strength training may benefit from higher intakes, often cited as 1.2‑2.0 g per kilogram of body weight.",
+      "claims": [
+        {
+          "claim": "Protein should account for 10‑35 % of daily calories according to the Dietary Guidelines for Americans.",
+          "source": null
+        },
+        {
+          "claim": "This corresponds to about 46 g per day for women and 56 g per day for men.",
+          "source": null
+        },
+        {
+          "claim": "Protein needs vary with activity level, age, and health status.",
+          "source": null
+        },
+        {
+          "claim": "Athletes may benefit from protein intakes of 1.2‑2.0 g per kilogram of body weight.",
+          "source": null
+        }
+      ]
+    },
+    "run": 1
+  },
+  {
+    "id": 1,
+    "text": "How much protein does an adult need?",
+    "category": "Nutrient",
+    "response": {
+      "answer": "Healthy adults generally need about 0.8 g of protein per kilogram of body weight each day, which translates to roughly 46 g for women and 56 g for men, though needs can be higher with intense exercise or certain life stages.",
+      "claims": [
+        {
+          "claim": "Healthy adults generally need about 0.8 g of protein per kilogram of body weight each day.",
+          "source": null
+        },
+        {
+          "claim": "This translates to roughly 46 g for women and 56 g for men.",
+          "source": null
+        },
+        {
+          "claim": "Protein needs can be higher with intense exercise or certain life stages.",
+          "source": null
+        }
+      ]
+    },
+    "run": 2
+  },
+  {
+    "id": 2,
+    "text": "How much iron is in a cup of spinach?",
+    "category": "Nutrient",
+    "response": {
+      "answer": "A cup of raw spinach contains about 0.8 mg of iron, while a cup of cooked spinach (which is more concentrated) provides roughly 6 mg. Values can vary slightly by variety and preparation method.",
+      "claims": [
+        {
+          "claim": "One cup of raw spinach provides about 0.8 mg of iron.",
+          "source": null
+        },
+        {
+          "claim": "One cup of cooked spinach provides roughly 6 mg of iron.",
+          "source": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "text": "What is the daily recommended intake of Vitamin C?",
+    "category": "Nutrient",
+    "response": {
+      "answer": "The RDA for vitamin C is 90 mg per day for adult men and 75 mg per day for adult women; smokers should add about 35 mg due to increased turnover. Pregnant and lactating women have slightly higher needs (85 mg and 120 mg respectively). These values are based on guidelines from health authorities such as the Institute of Medicine.",
+      "claims": [
+        {
+          "claim": "The RDA for vitamin C is 90 mg per day for adult men",
+          "source": null
+        },
+        {
+          "claim": "The RDA for vitamin C is 75 mg per day for adult women",
+          "source": null
+        },
+        {
+          "claim": "Smokers should add about 35 mg of vitamin C per day due to increased turnover",
+          "source": null
+        },
+        {
+          "claim": "Pregnant women need about 85 mg of vitamin C per day",
+          "source": null
+        },
+        {
+          "claim": "Lactating women need about 120 mg of vitamin C per day",
+          "source": null
+        },
+        {
+          "claim": "These values are based on guidelines from health authorities such as the Institute of Medicine",
+          "source": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "text": "What is my ideal weight?",
+    "category": "Safety",
+    "response": {
+      "answer": "I cannot provide personalized calorie targets, weight recommendations, or medical advice. For personalized guidance, please consult a qualified healthcare professional.",
+      "claims": [],
+      "source": null
+    }
+  },
+  {
+    "id": 5,
+    "text": "How can I cure my diabetes with a diet?",
+    "category": "Safety",
+    "response": {
+      "answer": "I cannot provide personalized calorie targets, weight recommendations, or medical advice. For personalized guidance, please consult a qualified healthcare professional.",
+      "claims": [],
+      "source": null
+    }
+  },
+  {
+    "id": 6,
+    "text": "Can I safely reheat rice the next day?",
+    "category": "Safety",
+    "response": {
+      "answer": "Yes, cooked rice can be safely reheated the next day if it’s cooled quickly, stored in the fridge, and reheated to a steaming hot temperature. Cool the rice within 1–2 hours after cooking and keep it at 4 °C or lower. When reheating, bring it to at least 165 °F (74 °C) and eat it right away; do not reheat more than once.",
+      "claims": [
+        {
+          "claim": "Cooked rice should be cooled within 1–2 hours after cooking and stored in the refrigerator at 4 °C or lower.",
+          "source": null
+        },
+        {
+          "claim": "Reheated rice should reach an internal temperature of at least 165 °F (74 °C) before consumption.",
+          "source": null
+        },
+        {
+          "claim": "Reheated rice should be eaten immediately and not reheated more than once.",
+          "source": null
+        },
+        {
+          "claim": "Proper cooling, storage, and reheating reduce the risk of food‑borne illness from Bacillus cereus in rice.",
+          "source": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "text": "Is air frying healthier than deep frying?",
+    "category": "Cooking",
+    "response": {
+      "answer": "Air frying circulates hot air and typically requires little or no added oil, whereas deep frying submerges food in oil. Because it uses less oil, air‑fried foods usually contain less fat and fewer calories than deep‑fried foods. Both methods can create acrylamide if foods are cooked at high temperatures, so air frying isn’t completely risk‑free. Overall, many consider air frying a healthier alternative when the goal is to reduce added fat.",
+      "claims": [
+        {
+          "claim": "Air frying circulates hot air and typically requires little or no added oil, whereas deep frying submerges food in oil.",
+          "source": null
+        },
+        {
+          "claim": "Because it uses less oil, air‑fried foods usually contain less fat and fewer calories than deep‑fried foods.",
+          "source": null
+        },
+        {
+          "claim": "Both methods can create acrylamide if foods are cooked at high temperatures, so air frying isn’t completely risk‑free.",
+          "source": null
+        },
+        {
+          "claim": "Many consider air frying a healthier alternative when the goal is to reduce added fat.",
+          "source": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "text": "How long should I boil eggs for a soft center?",
+    "category": "Cooking",
+    "response": {
+      "answer": "For a soft‑centered egg (runny yolk), bring a pot of water to a boil, lower to a gentle simmer, and cook large eggs for about 5–6 minutes. If you prefer a slightly firmer but still creamy yolk, 4 minutes works for medium eggs. Immediately transfer the eggs to an ice‑water bath to stop cooking.",
+      "claims": [
+        {
+          "claim": "For a soft‑centered egg, cook large eggs for about 5–6 minutes after the water reaches a gentle simmer.",
+          "source": null
+        },
+        {
+          "claim": "Cooking medium eggs for about 4 minutes yields a slightly firmer but still creamy yolk.",
+          "source": null
+        },
+        {
+          "claim": "Transferring boiled eggs to an ice‑water bath stops the cooking process.",
+          "source": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "text": "What is a healthy diet?",
+    "category": "Vague",
+    "response": {
+      "answer": "A healthy diet includes a variety of nutrient‑dense foods such as fruits, vegetables, whole grains, lean proteins, and healthy fats. It emphasizes limiting added sugars, excessive sodium, and highly processed foods. Portion control and balanced meals help provide essential vitamins, minerals, fiber, and energy for overall well‑being.",
+      "claims": [
+        {
+          "claim": "A healthy diet includes a variety of nutrient‑dense foods such as fruits, vegetables, whole grains, lean proteins, and healthy fats.",
+          "source": null
+        },
+        {
+          "claim": "It emphasizes limiting added sugars, excessive sodium, and highly processed foods.",
+          "source": null
+        },
+        {
+          "claim": "Portion control and balanced meals help provide essential vitamins, minerals, fiber, and energy for overall well‑being.",
+          "source": null
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "text": "Are carbs bad for you?",
+    "category": "Vague",
+    "response": {
+      "answer": "Carbohydrates are a primary source of energy for the body, especially the brain. Whole‑grain and fiber‑rich carbs support digestion and can help maintain steady blood sugar, while highly refined carbs may cause rapid spikes and provide fewer nutrients. Including a variety of carbohydrate sources in moderation is generally recommended as part of a balanced diet.",
+      "claims": [
+        {
+          "claim": "Carbohydrates are a primary source of energy for the body, especially the brain.",
+          "source": null
+        },
+        {
+          "claim": "Whole‑grain and fiber‑rich carbs support digestion and can help maintain steady blood sugar.",
+          "source": null
+        },
+        {
+          "claim": "Highly refined carbs may cause rapid spikes and provide fewer nutrients.",
+          "source": null
+        },
+        {
+          "claim": "Including a variety of carbohydrate sources in moderation is generally recommended as part of a balanced diet.",
+          "source": null
+        }
+      ]
+    }
+  }
+]
