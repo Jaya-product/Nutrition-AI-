@@ -313,7 +313,10 @@ export default function AI_Nutrition_App() {
       const prevMessages = currentChat?.messages || [];
       const apiMessages = [...prevMessages, userMsg].map(m => ({ role: m.role, content: m.content }));
 
-      const baseUrl = process.env.NEXT_PUBLIC_API_URL?.replace(/\/$/, "") || "";
+      let baseUrl = process.env.NEXT_PUBLIC_API_URL?.replace(/\/$/, "") || "";
+      if (baseUrl && !baseUrl.startsWith("http")) {
+        baseUrl = "https://" + baseUrl;
+      }
       const apiUrl = baseUrl ? `${baseUrl}/api/chat` : "/api/chat";
       const res = await fetch(apiUrl, {
         method: "POST",
